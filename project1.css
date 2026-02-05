@@ -1,0 +1,46 @@
+/* Page styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  /* Container */
+  .container {
+    margin-top: 40px;
+  }
+  
+  /* Color box wrapper */
+  .colors {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  /* Span buttons */
+  .button {
+    display: inline-block;   /* important for span */
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  /* Individual colors */
+  #gray {
+    background-color: gray;
+  }
+  
+  #white {
+    background-color: white;
+  }
+  
+  #blue {
+    background-color: blue;
+  }
+  
+  #yellow {
+    background-color: yellow;
+  }
