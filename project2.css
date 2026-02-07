@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+    margin: 40px;
+}
+
+button{
+    border-radius: 5px;
+    margin: 2px;
+    height: 30px;
+    width: 80px;
+    margin-left: 140px;
+}
+ #Weight-Guide {
+    margin-left: 90px;
+    margin-top: 100px;
+ }
